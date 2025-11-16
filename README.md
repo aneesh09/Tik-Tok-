@@ -52,6 +52,7 @@ This project analyzes TikTok video data to understand how content type, creator 
 - Claim-type content receives the highest visibility and user attention.
 - High-reach creators are more likely to fall under moderation review or banning.
 - Moderation actions correlate strongly with content that goes viral.
+<img width="358" height="343" alt="eda-3" src="https://github.com/user-attachments/assets/d74daacd-fa4c-4b14-803e-e1124f02aecf" />
 
 ---
 
